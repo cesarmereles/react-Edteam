@@ -1,6 +1,5 @@
-//import Curso from "./Curso";
-import Header from "./Header";
-import GrillaCursos from "./GrillaCursos";
+import Header from "./header/Header";
+import GrillaCursos from "./cursos/GrillaCursos";
 function App() {
   return (
     <>
